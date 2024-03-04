@@ -9,8 +9,6 @@ import Filters from './components/Filters'
 import RecipeList from './components/RecipeList'
 import OpengraphReactComponent from 'opengraph-react';
 
-
-
 function App() {
 
   const [recipes, setRecipes] = useState([
